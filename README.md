@@ -1,3 +1,5 @@
+> **Archived:** This repository is no longer maintained and is preserved for reference. For context on the Boundless ZK proving protocol pause and transition, see the [Boundless Foundation announcement](https://boundlessfdn.org/blog/zkc-the-ai-access-coin).
+
 # RISC Zero zkEmail
 
 This repository contains a RISC Zero project to verify DKIM signatures. With r0-zkEmail, email authenticity can be verified through zero-knowledge proofs, removing the need for direct access to email content. Instead, zk-DKIM generates cryptographic proofs that confirm the signature’s validity while keeping sensitive data private.
